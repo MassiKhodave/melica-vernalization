@@ -1,0 +1,14 @@
+Index	Genotype
+FRa_T0_4	T0
+FRa_T0_5	T0
+FRa_T0_6	T0
+FRa_T0_7	T0
+FRa_T0_8	T0
+FRa_T3_2.4	T3
+FRa_T3_5.2	T3
+FRa_T3_7.3	T3
+FRa_T3_	T3
+FRa_T4_11.4	T4
+FRa_T4_14.4	T4
+FRa_T4_	T4
+FRb_T4_11.3	T4
